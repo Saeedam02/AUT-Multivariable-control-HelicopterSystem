@@ -242,3 +242,14 @@ See [`REFERENCES.bib`](REFERENCES.bib). Recommended background includes Skogesta
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
+
+## Communication & Interaction
+
+Questions, feedback, bug reports, and ideas for extending the project are welcome.
+
+- **Open an issue** for bugs, questions, or feature requests.
+- **Pull requests** are welcome.
+- **Email:** saeedaghamohammadi99@gmail.com for collaboration or research-related questions.
+
+If this project was useful or interesting, a star on the repository is appreciated.
+
