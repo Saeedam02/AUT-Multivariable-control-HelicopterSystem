@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this educational robust-control repository, please cite it using the metadata below."
+title: "Robust Multivariable Control of a High-Order Helicopter System"
+type: software
+authors:
+  - family-names: "Aghamohammadi"
+    given-names: "Saeed"
+repository-code: "https://github.com/Saeedam02/AUT-Multivariable-control-HelicopterSystem"
+license: MIT
+version: "2.0.0"
+date-released: "2026-08-23"
+keywords:
+  - MIMO control
+  - helicopter
+  - robust control
+  - H-infinity
+  - structured singular value
+  - mu synthesis
+  - MATLAB
