@@ -1,6 +1,6 @@
 # Robust Multivariable Control of a High-Order Helicopter System
 
-[![MATLAB CI](https://github.com/Saeedam02/AUT-Multivariable-control-HelicopterSystem/actions/workflows/matlab-ci.yml/badge.svg)](https://github.com/Saeedam02/AUT-Multivariable-control-HelicopterSystem/actions/workflows/matlab-ci.yml)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A refactored MATLAB project for **MIMO interaction analysis, baseline control, mixed-sensitivity H-infinity synthesis, structured uncertainty modeling, robust-stability/performance verification, and optional mu synthesis** on a 10-output / 4-input helicopter model developed in the context of multivariable-control coursework at Amirkabir University of Technology (AUT).
